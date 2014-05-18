@@ -11,6 +11,12 @@
     "author": "Ismail Demirbilek",
     "git": "https://github.com/jekyll-bootstrap-3/dbyll",
     "demo_url": "http://jekyll-bootstrap-3.github.io/dbyll"
+  },
+  {
+    "name": "hpstr",
+    "author": "Ismail Demirbilek",
+    "git": "https://github.com/mmistakes/hpstr-jekyll-theme",
+    "demo_url": "http://mmistakes.github.io/hpstr-jekyll-theme/"
   }
 
 ]
